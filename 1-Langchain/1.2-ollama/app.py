@@ -3,7 +3,6 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-from langchain_community.llms import Ollama
 from langchain_ollama import OllamaLLM
 import streamlit as st
 from langchain_core.prompts import ChatPromptTemplate
