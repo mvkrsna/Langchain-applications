@@ -6,3 +6,5 @@ beautifulsoup4 # this library is used for web scraping
 langchain_community
 faiss-cpu # this is used for vector storage
 streamlit
+langchain_groq
+langchain_core
