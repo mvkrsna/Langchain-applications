@@ -8,3 +8,6 @@ faiss-cpu # this is used for vector storage
 streamlit
 langchain_groq
 langchain_core
+fastapi
+langserve
+sse_starlette
