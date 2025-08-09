@@ -63,7 +63,7 @@ Langchain-applications/
 README.md            # Project documentation
 
 
-
+```
 ## 📜 Key Principles
 
 - **Modularity** — Each folder focuses on a distinct use-case or integration.
