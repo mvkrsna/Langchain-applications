@@ -60,7 +60,6 @@ Langchain-applications/
 ├── .env                 # API keys & environment configuration
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
-README.md            # Project documentation
 
 
 ```
