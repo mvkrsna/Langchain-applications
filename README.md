@@ -39,7 +39,7 @@ pip install -r requirements.txt
 
 # Configure environment variables
 cp .env.example .env        # Then edit .env with your credentials
-
+```
 
 ## 🏗 Architecture Overview
 
